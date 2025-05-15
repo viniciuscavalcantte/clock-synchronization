@@ -47,7 +47,12 @@ python client.py
 ## ✅ Requisitos
 - **Clientes**: 4 instâncias (IDs de 1 a 4).  
 - **Diferença inicial**: ±10 segundos entre relógios.  
-- **Precisão pós-sincronização**: Diferença < 1 segundo.  
+- **Precisão pós-sincronização**: Diferença < 1 segundo.
+  
+## 👥 Desenvolvedores
+- **José Vinicius Cavalcante Soares** - 22112113  
+- **Liedson da Silva Santos** - 22110823  
+- **Thalia de Oliveira Santos** - 21110245
 
 ## 📜 Licença
 MIT License - Consulte [LICENSE](LICENSE) para detalhes.
