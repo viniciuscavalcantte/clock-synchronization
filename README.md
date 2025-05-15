@@ -25,15 +25,17 @@ O algoritmo de Berkeley é utilizado para sincronizar relógios em sistemas dist
 ### Coordenador
 Execute em um terminal:
 ```bash
-python coordinator.py
+python process_berkeley.py P0 coordinator
 ```
 
 ### Clientes
 Execute **em terminais separados** (1 por cliente):
 ```bash
-python client.py
+python process_berkeley.py P1 client
+python process_berkeley.py P2 client
+python process_berkeley.py P3 client
+python process_berkeley.py P4 client
 ```
-- **Digite um ID único (1 a 4)** quando solicitado.
 
 ## 🔧 Funcionamento
 1. O coordenador aguarda **4 clientes** se conectarem.  
