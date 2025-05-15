@@ -17,7 +17,7 @@ O algoritmo de Berkeley é utilizado para sincronizar relógios em sistemas dist
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/algoritmo-berkeley.git
+   git clone https://github.com/seuusuario/clocky-synchronization.git
    cd algoritmo-berkeley
    
 ## Como Executar
